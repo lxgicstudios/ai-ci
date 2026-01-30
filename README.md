@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-ci.svg)](https://www.npmjs.com/package/ai-ci)
 [![npm downloads](https://img.shields.io/npm/dm/ai-ci.svg)](https://www.npmjs.com/package/ai-ci)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-ci)](https://github.com/lxgic-studios/ai-ci/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered CI/CD workflow generator. Creates GitHub Actions pipelines from project analysis.
 
