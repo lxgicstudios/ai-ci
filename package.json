@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Generates GitHub Actions CI/CD workflows from project analysis",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "bin": {
     "ai-ci": "dist/cli.js"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -32,7 +37,27 @@
     "yaml",
     "zero-config"
   ],
+  "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-ci#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXGIC-Studios/ai-ci"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-ci/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "dependencies": {
     "commander": "^12.1.0",
     "glob": "^10.3.10",
@@ -42,10 +67,5 @@
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
-  },
-  "author": "LXGIC Studios",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-ci"
   }
 }
