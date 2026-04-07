@@ -1,5 +1,5 @@
 {
-  "name": "ai-ci",
+  "name": "@lxgicstudios/ai-ci",
   "version": "1.0.0",
   "description": "Generates GitHub Actions CI/CD workflows from project analysis",
   "main": "dist/index.js",
