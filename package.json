@@ -15,42 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "agentic",
-    "ai",
-    "ai-2025",
-    "ai-agent",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "cd",
     "ci",
-    "claude",
-    "cli",
-    "continuous-integration",
-    "developer-productivity",
-    "discoverability",
-    "generative-ai",
+    "cd",
+    "automation",
     "github-actions",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
+    "typescript",
+    "AI-powered",
+    "AI-optimized",
     "performance",
-    "performance-optimization",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-ci#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-ci#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-ci"
+    "url": "https://github.com/lxgicstudios/ai-ci"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-ci/issues"
+    "url": "https://github.com/lxgicstudios/ai-ci/issues"
   },
   "funding": {
     "type": "github",
