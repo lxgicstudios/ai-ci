@@ -1,54 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-ci",
-  "version": "1.0.0",
-  "description": "Generates GitHub Actions CI/CD workflows from project analysis",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-ci": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "ci",
-    "cd",
-    "automation",
-    "github-actions",
-    "typescript",
-    "AI-powered",
-    "AI-optimized",
-    "performance",
-    "optimization",
-    "seo",
-    "discoverability",
-    "2025-standards",
-    "modern-seo"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-ci#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-ci"
-  },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-ci/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -56,8 +16,53 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
+  "description": "Generates GitHub Actions CI/CD workflows from project analysis",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-ci#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-ci",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-ci"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
