@@ -48,10 +48,7 @@
     "github-actions",
     "gpt",
     "june-2026-core-update",
-    "npx",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "npx"
   ],
   "license": "MIT",
   "main": "dist/index.js",
